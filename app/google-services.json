@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465974412676",
+    "project_id": "egci428test",
+    "storage_bucket": "egci428test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465974412676:android:55620c21e94c0573e2c9d1",
+        "android_client_info": {
+          "package_name": "com.example.egci428_firestore20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465974412676-4d67b8a8elhccror2kheaifrsm52vltp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzuGPF_-tzFIyquwNXUVq6zkMKovftJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465974412676-4d67b8a8elhccror2kheaifrsm52vltp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
